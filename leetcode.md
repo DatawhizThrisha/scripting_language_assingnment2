@@ -43,18 +43,3 @@ This repository contains solutions to five LeetCode problems solved as part of m
 - **Description**: Finds the longest common prefix among an array of strings.  
 
 ---
-
-## How to Run
-
-Each problem's solution is contained in its respective file.  
-Clone the repository and execute the files in your local development environment.
-
-```bash
-# Clone this repository
-git clone https://github.com/your-username/leetcode-5-day-challenge.git
-
-# Navigate to the repository
-cd leetcode-5-day-challenge
-
-# Run the solution for a specific problem (example for Python)
-python problem_name.py
